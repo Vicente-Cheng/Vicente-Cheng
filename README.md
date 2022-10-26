@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hiyo! This is Vicente. 👋
+
+<a href="https://www.linkedin.com/in/vicentecheng/">
+  <img align="left" alt="Vicente's LinkedIN" width="22px" src="https://raw.githubusercontent.com/Vicente-Cheng/Vicente-Cheng/master/assets/linkedin.png" />
+</a>
 
 <!--
 **Vicente-Cheng/Vicente-Cheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
